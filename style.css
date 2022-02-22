@@ -1,0 +1,5 @@
+.placeholder{
+    width: clamp(500px, 60%, 800px);
+    margin: 40px auto;
+    text-align: justify;
+}
